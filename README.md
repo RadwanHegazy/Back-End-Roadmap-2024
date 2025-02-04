@@ -1,11 +1,11 @@
 # Back End Squad Roadmap
 
 ## General Keys :
-🔗 [Level 1 Basics](#level-1-basics)
+🔗 [Level 1 (Basics)](#level-1-basics)
 
-🔗 [Level 2 Basics](#level-2-basics)
+🔗 [Level 2 (Basics)](#level-2-basics)
 
-🔗 [Fromeworks](#backend-frameworks)
+🔗 [Level 3 (Frameworks)](#backend-frameworks)
 
 
 <details>
