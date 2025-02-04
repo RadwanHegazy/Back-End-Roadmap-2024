@@ -5,8 +5,10 @@
 
 🔗 [Level 2 (Basics)](#level-2-basics)
 
-🔗 [Level 3 (Frameworks)](#backend-frameworks)
+🔗 [Level 3 (Frameworks)](#level-3-frameworks)
 
+
+## Level 1 (Basics)
 
 <details>
  <summary>CS Introduction </summary>
@@ -91,9 +93,9 @@ ________________________________________________________
 
 </details>
 
-## Backend Frameworks
+## Level 3 (Frameworks)
 
-`NOTE:` In this stage you must choose one of theses frameworks and start to learn the roadmap throw it.
+`NOTE:` In this stage you must choose one of theses frameworks and start to learn the roadmap for it.
 
 - [Django](Django/README.md)
 - [Laravel]()
